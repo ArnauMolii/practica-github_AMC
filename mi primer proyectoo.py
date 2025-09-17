@@ -26,6 +26,7 @@ print(nombre_completo)
 
 
 
+
 # OPERADORES ARITMETICOS EN PHYTON
 
 print(var2 + var3) 
@@ -34,4 +35,15 @@ print(var2 * var3)
 print(var2 / var3) 
 print(var2 % var3) 
 print(var2 ** var3) 
-print(var2 // var3) 
+print(var2 // var3)
+
+
+
+# CAMBIO PARA EJERCICIO GITHUB
+
+var5= 23
+var6= 7
+print(var5+var6)
+
+
+
